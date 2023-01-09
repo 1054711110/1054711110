@@ -2,7 +2,7 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=1054711110&show_icons=true&hide_title=true" />
 
-I'm Han, a office worker from BeiJing, China. I ❤️ code
+I'm 2c, a office worker from BeiJing, China. I ❤️ code
 
 -   :hammer_and_pick: CSS/HTML/JavaScript/Vue/Typescript/React/PHP
 -   :package: Building 
