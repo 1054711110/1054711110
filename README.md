@@ -11,7 +11,18 @@ I'm 2c, a office worker from BeiJing, China. I ❤️ code
 -   :man: Pronouns: he/him
 -   :thinking: Constantly make yourself better
 
+### 🏗️ Learning:
 
+<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
+<code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
+
+### 📫 Reach me:
+
+- **QQ** : 1054711110
+- **WeChat** : 1054711110
+- **E-mail** : 1054711110@qq.com
 #### :bar_chart:  Weekly development breakdown
 
 <!--START_SECTION:waka-->
